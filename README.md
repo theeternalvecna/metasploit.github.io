@@ -7,5 +7,5 @@ Unlike the rest of the Metasploit GitHub organization, this material ought to be
 
 ## TODO
 
-- [ ] Implement SSL on http://resources.metasploit.com because cleartext
+- [x] Implement SSL on http://resources.metasploit.com because cleartext
   is lame.
